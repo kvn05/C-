@@ -26,4 +26,4 @@ int main()
 }
 
 
-// complexity is like bigO(1) for all the operation
+// complexity is like bigO(1) for all the operations
